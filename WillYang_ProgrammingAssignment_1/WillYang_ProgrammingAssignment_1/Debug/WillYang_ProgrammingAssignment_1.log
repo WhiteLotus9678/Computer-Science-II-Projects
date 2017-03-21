@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\student data\documents\visual studio 2015\projects\willyang_programmingassignment_1\willyang_programmingassignment_1\source.cpp(171): warning C4244: '=': conversion from 'time_t' to 'unsigned int', possible loss of data
+  WillYang_ProgrammingAssignment_1.vcxproj -> D:\Student Data\Documents\Visual Studio 2015\Projects\WillYang_ProgrammingAssignment_1\Debug\WillYang_ProgrammingAssignment_1.exe
+  WillYang_ProgrammingAssignment_1.vcxproj -> D:\Student Data\Documents\Visual Studio 2015\Projects\WillYang_ProgrammingAssignment_1\Debug\WillYang_ProgrammingAssignment_1.pdb (Partial PDB)

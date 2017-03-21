@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\student data\documents\visual studio 2015\projects\willyang_programmingassignment_2_edit\willyang_programmingassignment_2_edit\source.cpp(108): warning C4244: '=': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\student data\documents\visual studio 2015\projects\willyang_programmingassignment_2_edit\willyang_programmingassignment_2_edit\source.cpp(179): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  WillYang_ProgrammingAssignment_2_EDIT.vcxproj -> D:\Student Data\Documents\Visual Studio 2015\Projects\WillYang_ProgrammingAssignment_2_EDIT\Debug\WillYang_ProgrammingAssignment_2_EDIT.exe
+  WillYang_ProgrammingAssignment_2_EDIT.vcxproj -> D:\Student Data\Documents\Visual Studio 2015\Projects\WillYang_ProgrammingAssignment_2_EDIT\Debug\WillYang_ProgrammingAssignment_2_EDIT.pdb (Partial PDB)
